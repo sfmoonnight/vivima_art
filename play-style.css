@@ -40,7 +40,6 @@ body {
 	left: 0; 
 	-webkit-transform: translate(0%, 0%); 
 	transform: translate(0%, 0%);
-	padding: 0 40px;
 	font-size: 0.9em;
 	line-height:1.3em;
 }
@@ -55,6 +54,7 @@ body {
 
 .webgl-content table {
 	margin-top:20px;
+	margin-bottom:20px;
 }
 
 #unityContainer {
