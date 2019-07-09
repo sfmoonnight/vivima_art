@@ -1,0 +1,29 @@
+﻿@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+body {
+	background: #f5fafa;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 19pt;
+	font-weight: 300;
+	line-height: 1.75em;
+	color: #888;
+	background-image: url(assets/css/images/overlay.png);
+}
+
+.heading {
+	text-align:center;
+}
+
+.heading h3 {
+	font-weight: 300;
+	color: #666;
+	margin-bottom:0;
+	font-size:1.5em;
+}
+
+.heading h6 {
+	margin-top:0;
+	font-weight: 300;
+    color: #666;
+	font-size:1.005em;
+}
