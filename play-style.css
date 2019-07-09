@@ -50,6 +50,7 @@ body {
 
 .webgl-content td {
 	padding:0 30px;
+	vertical-align:top;
 }
 
 .webgl-content table {
