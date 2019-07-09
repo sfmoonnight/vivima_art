@@ -34,7 +34,28 @@ body {
 	top:0;
 }
 
-.webgl-content {position: absolute; top: 0; left: 0; -webkit-transform: translate(0%, 0%); transform: translate(0%, 0%);}
+.webgl-content {
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	-webkit-transform: translate(0%, 0%); 
+	transform: translate(0%, 0%);
+	padding: 0 40px;
+	font-size: 0.9em;
+	line-height:1.3em;
+}
+
+.webgl-content h4 {
+	margin-top:15px;
+}
+
+.webgl-content td {
+	padding:0 30px;
+}
+
+.webgl-content table {
+	margin-top:20px;
+}
 
 #unityContainer {
 	margin:auto !important;
